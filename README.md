@@ -1,4 +1,4 @@
-# 🧠 sinapsedot
+# 🧠 synapsedot
 **Soluções Digitais sob Medida: Engenharia de Software & Estratégia de Mercado.**
 
 Bem-vindo à **sinapsedot**. Somos um hub de tecnologia e inovação focado em transformar ideias em produtos digitais escaláveis. Nossa abordagem é centrada no problema: não nos prendemos a ferramentas, mas sim em entregar a melhor solução técnica e estratégica para cada desafio.
