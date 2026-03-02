@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  [![Website](https://img.shields.io/badge/Website-synapse.com.br-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://synapse.com.br)
+  [![Website](https://img.shields.io/badge/Website-synapse.com.br-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://synapsedot.com.br)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Synapse-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/synapsedot)
   [![Instagram](https://img.shields.io/badge/Instagram-@synapsedot-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/synapsedot)
 
