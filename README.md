@@ -37,8 +37,8 @@ Seguimos internamente as melhores práticas de:
 ---
 
 ### 🌐 Conecte-se conosco
-* **Website:** [Visite nosso site](http://www.sinapsedot.com.br)
-* **LinkedIn:** [Siga a sinapsedot no LinkedIn](#)
-* **Contato:** [seu-email@dominio.com]
+* **Website:** Loading...
+* **LinkedIn:** Loading...
+* **Contato:** [synapsetechnology.0@gmail.com]
 
 *"Inovação é a nossa conexão."*
